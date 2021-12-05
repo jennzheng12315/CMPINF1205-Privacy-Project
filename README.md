@@ -1,4 +1,4 @@
-# CMPINF 1205 Privacy Project  
+# 💻 CMPINF 1205 Privacy Project  
 Jennifer Zheng | jez38@pitt.edu
 
 ## 🗒️ About the Project
@@ -6,7 +6,7 @@ This repository contains my final project for the class CMPINF 1205: Comparative
 
 Please note that this is not a definitive analysis. This was done using what resources and knowledge I had, and while it certainly supports my argument, this does not mean that _all_ privacy policies are written for the benefit of the company rather than the users. 
 
-My code and explanations can be found in `main.ipynb`. Enjoy!
+My code and explanations can be found in `main.ipynb`. Enjoy! ❤️
 
 ## 🛠️ Built With
 * Juypter Notebook
