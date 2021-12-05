@@ -9,7 +9,7 @@ Please note that this is not a definitive analysis. This was done using what res
 My code and explanations can be found in `main.ipynb`. Enjoy! ❤️
 
 ## 🛠️ Built With
-* Juypter Notebook
+* Jupyter Notebook
 * Python
 * BeautifulSoup
 * pandas
